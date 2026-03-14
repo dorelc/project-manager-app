@@ -55,7 +55,7 @@ export function Dashboard() {
     <div className="page-shell">
       <section className="hero">
         <div>
-          <p className="eyebrow">Demo full-stack</p>
+          <p className="eyebrow">Proiect licenta Ana Matei</p>
           <h1>Management proiecte</h1>
           <p>
             Aplicație web simplă pentru proiecte și task-uri, cu frontend, backend și bază de date.
